@@ -4,6 +4,12 @@
 
 This repository contains the codebase for the Autogen examples featured in Matthew Berman's AutoGen YouTube series. You can explore the series and gain deeper insights into the projects via [Matthew Berman's AutoGen Series](https://youtube.com/playlist?list=PLp9pLaqAQbY2vUjGEVgz8yAOdJlyy3AQb&si=RCqWVdcujzj9vj0B) on YouTube.
 
+### Files
+
+- *app.py*: Example of how to use Autogen with OpenAI api
+- *app_os.py*: Example of how to use Autogen with an opensource model running locally on LM studio server. 
+
+
 ### Requirements
 
 To utilize this repository effectively, you will need:
