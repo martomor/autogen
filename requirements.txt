@@ -1,2 +1,4 @@
 pyautogen
 python-dotenv
+litellm
+litellm[proxy]
