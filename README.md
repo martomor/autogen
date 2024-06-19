@@ -7,7 +7,8 @@ This repository contains the codebase for the Autogen examples featured in Matth
 ### Files
 
 - *app.py*: Example of how to use Autogen with OpenAI api
-- *app_os.py*: Example of how to use Autogen with an opensource model running locally on LM studio server. 
+- *app_os.py*: Example of how to use Autogen with an opensource model running locally on LM studio server.
+- *app_ollama.py*: Example of how to use Autogen with Ollama served open-source with LightLLM.
 
 
 ### Requirements
